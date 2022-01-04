@@ -1,10 +1,9 @@
 ## Hi I'm Gleisson Bispo! Welcome to my Profile 👋
 
-<div align="center">
-  <a href="https://github.com/gleissonbispo">
+<p float="left">
   <img height="160" src="https://github-readme-stats.vercel.app/api?username=gleissonbispo&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
   <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gleissonbispo&layout=compact&langs_count=7&theme=gotham"/>
-</div>
+</p>
 
 ##   
 
