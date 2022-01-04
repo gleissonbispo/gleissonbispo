@@ -2,10 +2,11 @@
 
 <div align="center">
   <a href="https://github.com/gleissonbispo">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gleissonbispo&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gleissonbispo&layout=compact&langs_count=7&theme=gotham"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=gleissonbispo&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gleissonbispo&layout=compact&langs_count=7&theme=gotham"/>
 </div>
-##
+
+
  <div style="display: inline_block" align="center">
   <br>
   <img align="center" alt="Python" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" href="python.org">
@@ -15,5 +16,5 @@
   <img align="center" alt="Flask" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg">
   <img align="center" alt="Jupyter" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg">
 </div>
-  
+  ## 
   
