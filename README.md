@@ -1,16 +1,12 @@
 ## Hi I'm Gleisson Bispo! Welcome to my Profile 👋
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&langs_count=8&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-
-
 <div align="center">
   <a href="https://github.com/gleissonbispo">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=gleissonbispo&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gleissonbispo&layout=compact&langs_count=7&theme=gotham"/>
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=gleissonbispo&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gleissonbispo&layout=compact&langs_count=7&theme=gotham"/>
 </div>
 
+##   
 
  <div style="display: inline_block" align="center">
   <br>
@@ -21,5 +17,6 @@
   <img align="center" alt="Flask" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg">
   <img align="center" alt="Jupyter" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg">
 </div>
-  ## 
+
+## 
   
