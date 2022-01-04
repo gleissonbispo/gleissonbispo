@@ -6,6 +6,7 @@
   <img height="180"  width="470" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gleissonbispo&layout=compact&langs_count=7&theme=gotham"/>
 </div>
   
+##
  <div style="display: inline_block" align="center">
   <br>
   <img align="center" alt="Python" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" href="python.org">
