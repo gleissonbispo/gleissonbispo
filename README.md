@@ -2,7 +2,7 @@
 
 <p float="left">
   <img height="160" width="400" src="https://github-readme-stats.vercel.app/api?username=gleissonbispo&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
-  <img height="160" width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gleissonbispo&layout=compact&langs_count=7&theme=gotham"/>
+  <img height="160" width="468" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gleissonbispo&layout=compact&langs_count=7&theme=gotham"/>
 </p>
 
 ##   
