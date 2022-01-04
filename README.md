@@ -1,5 +1,10 @@
 ## Hi I'm Gleisson Bispo! Welcome to my Profile 👋
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&langs_count=8&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
 <div align="center">
   <a href="https://github.com/gleissonbispo">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=gleissonbispo&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
