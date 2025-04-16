@@ -49,8 +49,6 @@
 ## 🌐 Onde me encontrar
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/gleissonbispo) – conteúdo técnico, carreira, IA no RH
-- 🗂️ [Portfólio no Notion](https://notion.so/...) – projetos detalhados
-- 📺 [YouTube – Análise de Dados Brasil](https://youtube.com/...) – vídeos sobre IA, RH e dados
 
 ---
 
