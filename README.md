@@ -32,6 +32,7 @@
 | Projeto                                               | Tecnologias                | Valor gerado                                       |
 |--------------------------------------------------------|----------------------------|----------------------------------------------------|
 | 🔍 Analisador de Avaliações com LLM Local              | Ollama · LangChain · Streamlit | Análise de sentimentos e insights de RH automatizados |
+| 💼 Gerador de Descrição de Vagas com LLM Local         | Ollama · LangChain · Streamlit | Automatização da geração de textos e descrição de vagas|
 
 
 🔗 Explore todos os projetos aqui no repositório ou no meu portfólio no Notion.
