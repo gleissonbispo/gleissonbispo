@@ -33,6 +33,7 @@
 |--------------------------------------------------------|----------------------------|----------------------------------------------------|
 | 🔍 Analisador de Avaliações com LLM Local              | Ollama · LangChain · Streamlit | Análise de sentimentos e insights de RH automatizados |
 | 💼 Gerador de Descrição de Vagas com LLM Local         | Ollama · LangChain · Streamlit | Automatização da geração de textos e descrição de vagas|
+| 🧑‍💼 Analisador Inteligente de Currículos com IA        | Ollama · LangChain · Streamlit · Tesseract OCR Sentence · Transformers| Análise de currículos com uma aplicação de ponta a ponta que combina OCR, LLMs locais e verificação de compatibilidade com vagas|
 
 
 🔗 Explore todos os projetos aqui no repositório ou no meu portfólio no Notion.
